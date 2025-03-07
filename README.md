@@ -1,1 +1,21 @@
-# Thalles
+<h1 align="center">Oi 👋 , Eu sou Thalles Roberto Avelar</h1>
+<h3 align="center">Apaixonado por Tecnologia da informação.</h3>
+
+- 🔭 atualmente estou trabalhando como Especialista em Redes 
+
+- 💬 Me pergunte sobre **Ambientes de Monitoramento (Zabbix e Grafana)- Routing (BGP,OSPF,eBGP/iBGP) - Gerenciamento de LoadBalance (F5) - Links Wans (MPLS, Lan to Lan) - SDWAN Fortinet - QoS, marcação e classificação de pacotes - Gestão de Fortigates através do Fortimanager - Gestão de Logs dos Fortigates através do FortiAnalyser; Monitoramento e inventário de ativos e links - Cisco Catalyst Center; ISE (Mecanismo de Serviços de Identidade); Aruba Clearpass -**
+
+- 📫 você me acha através do e-mail **thallesrobertoavelar@gmail.com**
+
+- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/thalles-roberto-1594b6151/](https://www.linkedin.com/in/thalles-roberto-1594b6151/)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thalles-roberto-1594b6151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thalles-roberto-1594b6151/" height="30" width="40" /></a>
+<a href="https://instagram.com/@mundo_das_maquinas_informatica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mundo_das_maquinas_informatica" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" altura="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thallesrobertoxp&show_icons=true&locale=en&layout=compact" alt="thallesrobertoxp" /></p>
